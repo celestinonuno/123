@@ -12,7 +12,7 @@
                     // await Promise.waitForNetworkIdle;
 
                     // const twitter2 = await browser.newPage();
-                    // twitter2.goto('https://snapshot.org/#/stgdao.eth/proposal/0x3cb9430062af89937887e9d359e4765de4f138c6bcea49ee66225a8fa998e97b');
+                    // twitter2.goto('https://snapshot.org/#/stgdao.eth/proposal/0x24143cb9430062af89937887e9d359e4765de4f138c6bcea49ee66225a8fa998e97b');
                     // await new Promise(resolve => setTimeout(resolve, 1500));
                     // await Promise.waitForNetworkIdle;
 
