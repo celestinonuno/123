@@ -8,12 +8,6 @@
 
 
 
-                    // const twitter1 = await browser.newPage();
-                    // twitter1.goto('https://snapshot.org/#/sdgtgdao.eth/proposal/0x85c67235f303a69df297e1f23dcf6dc2845366a8672362e94612350ba4a4d7928cc8ea');
-                    // await new Promise(resolve => setTimeout(resolve, 1500));
-                    // await Promise.waitForNetworkIdle;
-
-                    // const twitter1 = await browser.newPage();
                     // twitter1.goto('https://snapshot.org/#/sdgtgdao.eth/proposal/0x85c67235f303a69df297e1f23dcf6dc2845366a8672362e94612350ba4a4d7928cc8ea');
                     // await new Promise(resolve => setTimeout(resolve, 1500));
                     // await Promise.waitForNetworkIdle;
