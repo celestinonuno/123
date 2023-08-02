@@ -11,10 +11,7 @@
                     // await new Promise(resolve => setTimeout(resolve, 1500));
                     // await Promise.waitForNetworkIdle;
  // const twitter3 = await browser.newPage();
-                    // twitter3.goto('https://snapshot.org/#/stgdao.eth/proposal/0xf1274081c9f4db1db77f30f21b53f61dde8716f8d3f2aac7367709bd4af369b2');
-                    // await new Promise(resolve => setTimeout(resolve, 1500));
-                    // await Promise.waitForNetworkIdle;
-
+                    // twitter3.goto('https://snapshot.org
 
 
                     
