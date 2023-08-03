@@ -12,5 +12,3 @@
                     // fastOpen2.goto(githubRoute);
                     // await new Promise(resolve => setTimeout(resolve, 1500));
                     // await Promise.waitForNetworkIdle;
-
-                    const fastOpen4 = await browser.newPage();
