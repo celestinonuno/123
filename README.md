@@ -8,11 +8,6 @@
                     // await Promise.waitForNetworkIdle;
                     // const twitter3 = await browser.newPage();apps.shardeum.org/');
 
-                    // const fastOpen2 = await browser.newPage();
-                    // fastOpen2.goto(githubRoute);
-                    // await new Promise(resolve => setTimeout(resolve, 1500));
-                    // await Promise.waitForNetworkIdle;
-
                     
                     // await Promise.waitForNetworkIdle;
 // const twitter1 = await browser.newPage();
