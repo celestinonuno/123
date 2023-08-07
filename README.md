@@ -11,8 +11,3 @@
                     
                     // await Promise.waitForNetworkIdle;
 // const twitter1 = await browser.newPage();hardeum.org/');
-
-                    // const fastOpen2 = await browser.newPage();
-                    // fastOpen2.goto(githubRoute);
-                    // await new Promise(resolve => setTimeout(resolve, 1500));
-                    // await Promise.waitForNetworkIdle;
