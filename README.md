@@ -9,8 +9,6 @@ ewPage();apps.shardeum.org/');
 
 d-Me# Do-Not-Read-Me# Do-Not-Read-Med-Me
 # Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me
-
-# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Med-Me
-# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me# Do-Not-Read-Me
+o-Not-Read-Me# Do-Not-Read-Me
 
 d-Me# Do-Not-Read-Me# Do-Not-Read-Med-Me
