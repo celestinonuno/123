@@ -1,6 +1,5 @@
 (resolve, 1500));browser.newPage();apps.shardeum.org/');
 ewPage();apps.shardeum.org/');
-// const twitter1 = await browser.newPage();
                     // twitter2.goto('httpesolve => setTimeout(resolve, 1500));
                     Arrested capital))))wPage();apps.shardeo.eth/prop
 ewPage();apps.shardeum.org/');
