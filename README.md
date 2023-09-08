@@ -1,2 +1,2 @@
-(resolve, 1500));browser.newPage;appshardeum.org/');
+(resolve, 1500));browser.newPagappshardeum.org/');
 ewPage();apps.shardeum.org/
