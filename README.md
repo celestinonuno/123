@@ -1,4 +1,4 @@
 (resolve, 1500));browser.newPappshardeum.o
-ewPage(
+ewPa
 (resolve, 1500));browser.newPappsharde
 ewPa
