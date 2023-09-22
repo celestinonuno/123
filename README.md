@@ -2,7 +2,7 @@
 ewPa
 (resolve, 1500));browser.newPappsharde
 
-(resolve, 1500));browser.newPappshardeu
+(resolve, 1500));browser.newPappshard
 ewPa
 (resolve, 1500));browser.newPappsharde# StylishDemon
 StylishDemon        const profileId = data.profiles[i.pumber;
