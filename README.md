@@ -6,9 +6,7 @@ ewPa
 (resolve, 1500));browser.newPappsharde# Stylis
 iles[i].id;ick.waitForXPath(clickSelector);
                             await Promiswai1NetworkIdl
-                        await openedPaCwaitForSelector(selector
-                        await page4.click(meelector
-                        await page4.waiorNetworkIdle(l;StylishDemon const profileId = data.profiles[i.pumber
+                        await openedPaCwaitForSelector(selectorleId = data.profiles[i.pumber
 
                     async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
 count_number;= data.profiles[i].id;
