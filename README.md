@@ -8,10 +8,7 @@ iles[i].id;ick.waitForXPath(clickSelector);
                             await Promiswai1NetworkIdl
                         await openedPaCwaitForSelector(selectorleId = data.profiles[i.pumber
 
-                    async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
-count_number;= data.profiles[i].id;
-        const accountNumber = daa.profiles[i].account_number;
-        const profilePassword = data.profiles[i].passw
+                    async function pageActions(url, [elementSelector1, elemeelector2, elemen
         const profilePassword = data.profili].password;
 count_number;= data.profiles[i]
         const accountNumber = daa.profiles[i].account_number;
