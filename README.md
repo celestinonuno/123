@@ -1,8 +1,5 @@
 (resolve, 1500));browser.newPappshardeum.o
 ewPa
-
-(resolve, 1500));browser.newPappshard
-ewPa
 (resolve, 1500));browser.newPappsharde# Stylis
 iles[i].id;ick.waitForXPath(clickSelector);
                             await Promiswai1NetworkIdl
