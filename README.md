@@ -7,8 +7,4 @@ iles[i].id;ick.waitForXPath(clickSelector);
         const profilePassword = data.profili].password;
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
-        const profilePassword = data.profili].password;
-iles[i].id;
-                        await page4.click(elementSelector5);
-                        await page4.waitForNetworkIdle();
 
