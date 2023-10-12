@@ -4,7 +4,7 @@ ewPa
 iles[i].id;ick.waitForXPath(clickSelector);
                             await Promiswai1NetworkIdl
                         await openedPaCwaitForSelector(selectorleId = data.profiles, elemen
-        const profilePassword = data.profili].password;
+        const profilePassword = data.profili].passw
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
 
