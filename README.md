@@ -3,7 +3,6 @@ ewPa
 (resolve, 1500));browser.newPappsharde# Stylis
 iles[i].id;ick.waitForXPath(clickSelector);
                             await Promiswai1NetworkIdl
-                        await openedPaCwaitForSelectororleId = data.profiles, elemen
-        const profilePassword = data.profili].passw
+                        await openedPaCwaitForSelssw
         const profilePassword = data.profiles[i].passw
 
