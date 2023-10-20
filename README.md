@@ -2,7 +2,7 @@
 ewPa
                         await
 
-(resolve, 1500));browser.newPappshardeum.o
+(resolve, 1500));browser.newPappsh
 ewPa
                         await
 
