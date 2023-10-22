@@ -1,7 +1,4 @@
-(resolve, 1500));browser.newPappshardeum.o
-ewPaappsh
-ewPa
-                        await
+(resolve, 1500));browser.newPappsha
 
 (resolve, 1500));browser.newPappshardeum.o
 ewPa
