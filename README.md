@@ -1,5 +1,5 @@
 
-(resolve, 1500));browser.newPappshardeum.o
+(resolve, 1500));browser.Pappshardeum.o
 ewPa
                         await
 
