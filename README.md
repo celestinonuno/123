@@ -1,5 +1,5 @@
 
-(resolve, 1500));brow
+(resolve, 1500))
                         await
 
 (resolve, 1500));browser.newPappshardeum.o
