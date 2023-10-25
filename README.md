@@ -1,6 +1,6 @@
 
 (resolve, 1500))
-                        await
+                        aw
 
 (resolve, 1500));browser.newPappshardeum.o
 ewPa
