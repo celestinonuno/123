@@ -1,7 +1,7 @@
 
 (resolve, 1500))
                 
-(resolve, 1500wPa
+(resolv
 ewPa
                         await
 
