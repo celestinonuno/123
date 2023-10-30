@@ -2,7 +2,7 @@
                 
 (resolv
 ewPa
-                        await
+                        
 
 (resolve, 1500));browserappshardeum.o
 ewPa
