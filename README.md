@@ -4,8 +4,6 @@
 
                         
 
-(resolve, 1500));browserappshardeum.o
-ewPa
                         await
 
 (resolve, 1500));browser.newPappshardeum.o
