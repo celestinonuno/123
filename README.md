@@ -11,10 +11,13 @@ count_number;= data.profiles[i].
                         
 
 iles[i].id;ount_n
-        const accountNumber = data.profiles[i].account_number;
-        const profilePassword = da.profile[i].password;   
-count_number;= data.profiles[i].
-        const accountNumber = daa.profiles[i].account_numb
+        const accountNumber = data.profiles[i].account_number;# Do-Not-Read-Me# Dead-Me# DorkIdlelector3, 
+        const profilePasswof
+        ].password;
+
+                        await page4.waiorNetworkIdle(l;
+                        await page4.click(elementSeIdl;
+                        await page4.waitForSelector(elementSel
 
                         await
 
