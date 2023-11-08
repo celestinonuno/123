@@ -7,8 +7,6 @@ count_number;= data.profiles[i].
         const profilePasswof
         ].password;
 
-                        await page4.waiorNetworkIdle(l;
-                        await
 
 ewPa
                         await
