@@ -4,7 +4,6 @@
         const profilePassword = da.profile[i].p
 
         const profilePasswof
-        ].password;
 
 
 ewPa
