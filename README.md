@@ -1,8 +1,6 @@
 
                 
-
-ewPa
-                        await
+wait
 
         const profilePa
 ewPa
