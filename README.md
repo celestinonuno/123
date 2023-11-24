@@ -2,8 +2,6 @@
                ge4.waitForNet
 yarn_install(
     name = "aio_npm",
-    # Note that we add the patches are modified.
-    data = [
         YARN_LABEL,
         "//:.yarnrc",
         "//aio:tools/cli-patches/bazel-architect-output.patch",
