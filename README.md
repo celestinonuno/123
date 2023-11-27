@@ -1,10 +1,7 @@
 
                ge4.waitForNet
 yarn_install(
-    name = "aio_npm",
-        YARN_LABEL,
-        "//:.yarnrc",
-        "//aio:tools/cli-patches/bazel-architect-output.patch",
+    name = "aio_npm",architect-output.patch",
         "//aio:tools/cli-patches/patch.js",
     ],
     # Currently disabled due to:
