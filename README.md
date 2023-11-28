@@ -1,8 +1,6 @@
 
                ge4.waitForNet
-yarn_install(
-    name = "aio_npm",architect-output.patch",
-        "//aio:tools/cli-patches/patch.js",
+yarn_install(.js",
     ],
     # Currently disabled due to:
     #  1. Missing Windows support currently.
