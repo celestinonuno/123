@@ -1,7 +1,4 @@
 
-               ge4.waitForNet
-yarn_install(.js",
-    ],
     # Currently disabled due to:
     #  1. Missing Windows support currently.
     #  2. Incompatibilites with the `ts_library` rule.
