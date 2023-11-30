@@ -1,6 +1,4 @@
 
-    # Currently disabled due to:
-    #  1. Missing Windows support currently.
     #  2. Incompatibilites with the `ts_library` rule.
     exports_directories_only = False,
     manual_build_file_contents = npm_package_archives(),
