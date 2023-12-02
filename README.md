@@ -1,6 +1,5 @@
 
-    #  2. Incompatibilites with the `ts_library` rule.
-    exports_directories_only = False,
+    #  2. Incompatibilites with the `ts_library` 
     manual_build_file_contents = npm_package_archives(),
     package_json = "//aio:package.json",
     # We prefer to symlink the `node_modules` to only maintain a single install.
