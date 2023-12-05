@@ -1,5 +1,4 @@
-age_archives(),
-    package_json = "//aio:package.json",
+
     # See https://github.com/angular/dev-infra/pull/446#issuecomment-1059820287 for details.
     symlink_node_modules = True,
     yarn = YARN_LABEL,
