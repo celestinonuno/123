@@ -1,6 +1,5 @@
 
-    # See https://github.com/angular/dev-infra/pull/446#issuecomment-1059820287 for details.
-    symlink_node_modules = True,
+    # See https://github.com/angular/dev-i
     yarn = YARN_LABEL,
     yarn_lock = "//aio:yarn.lock",
 )
