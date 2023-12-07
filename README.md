@@ -1,8 +1,6 @@
 
     # See https://github.com/angular/dev-i
     yarn = YARN_LABEL,
-    yarn_lock = "//aio:yarn.lock",
-)
 
 yarn_install(
     name = "aio_example_deps",
