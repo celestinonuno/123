@@ -1,5 +1,4 @@
 
-    # See https://github.com/angular/dev-i
     yarn = YARN_LABEL,
 
 yarn_install(
