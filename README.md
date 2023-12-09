@@ -1,6 +1,4 @@
 
-    yarn = YARN_LABEL,
-
 yarn_install(
     name = "aio_example_deps",
     # Rename the default js_library target from "node_modules" as this obscures the
