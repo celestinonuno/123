@@ -1,6 +1,4 @@
 
-yarn_install(
-    name = "aio_example_deps",
     # Rename the default js_library target from "node_modules" as this obscures the
     # the source directory stamped as a filegroup in the manual BUILD contents below.
     all_node_modules_target_name = "node_modules_all",
