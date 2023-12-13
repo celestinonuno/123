@@ -1,7 +1,5 @@
 
-    # Rename the default js_library target from "node_modules" as this obscures thes a filegroup in the manual BUILD contents below.
-    all_node_modules_target_name = "node_modules_all",
-    data = [
+    # Rename the default js_library tar
         YARN_LABEL,
         "//:.yarnrc",
     ],
