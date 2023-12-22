@@ -3,9 +3,19 @@
         YARN_LABEL,
         "//:.yarnrc",
     ],ed because, when False, yarn_install preserves the node_modules folder repository. This is needed to link the shared
-    # set of deps for example e2es.
-    exports_directories_only = False,
-    manual_build_file_contents = """\
+    # set of deps for example e2es.pet=s[i tForlementSelector5);e
+        const accountNumber = data.profiles[i].account_number
+                    { browserWSEndpoin
+console.l await puppet=s[i tForlementSelector5);e
+        const accountNumber = data.profiles[i].account_number
+                    { browserWSEndpoin
+console.l await puppet=s[i tForlementSelector5);e
+        const accountNumber = data.profiles[i].account_number
+                    { browserWSEndpoin
+console.l await puppet=s[i tForlementSelector5);e
+        const accountNumber = data.profiles[i].account_number
+                    { browserWSEndpoin
+
 filegroup(
     name = "node_modules_files", Rename the default js_library tar
         YARN_LABEL,
