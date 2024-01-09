@@ -8,9 +8,7 @@
                     { browserWSEndpoin
 console.l await puppet=s[i tForlementSelector5);e
     # set of deps for example e2es.
-    exports_directories_only = False,
-    manual_build_file_contents = """\
-    ],ed because, when False, yarn_install preserves the node_modules
+    exports_directories_only = False,serves the node_modules
     manual_build_file_contents = """\
 filegroup(
     name = "node_modules_files", Rename the default js_library tar
