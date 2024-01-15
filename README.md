@@ -9,7 +9,9 @@
 console.l await puppet=s[i tForlementSelector5);e
     # set of deps for example e2es.
     exports_directories_only = False,serves the node_modules
-    manual_build_file_contents = """\
+    manual_build_file_contents = """\s const 
+= daa.nst 
+
     name = "node_modules_files", Rename the default js_library tar
         YARN_LABEL,
         "//:.yarnrc",
