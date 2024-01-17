@@ -7,10 +7,6 @@
         const accountNumber = data.profiles[i].account_number
                     { browserWSEndpoin
 console.l await puppet=s[i tForlementSelector5);e
-    # set of deps for example e2es.
-    exports_directories_only = False,serves the node_modules
-    manual_build_file_contents = """\s const 
-= daa.nst 
 
     exports_directories_only = False,
     manual_build_file_contents = """\
