@@ -7,9 +7,6 @@
         const accountNumber = data.profiles[i].account_number
                     { browserWSEndpoin
 console.l await puppet=s[i tForlementSelector5);e
-    manual_build_file_contents = """\
-filegroup(
-    name = "node_modules_files", Rename the default js_library tar
         YARN_LABEL,
         "//:.yarnrc",
     ],ed because, when False, yarn_install preserves the node_modules folder
